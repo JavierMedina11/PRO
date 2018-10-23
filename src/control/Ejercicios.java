@@ -12,7 +12,7 @@ public class Ejercicios {
 	// -------------------------------
 
 	public void pruebasAPI() {
-		/*dsdsdsdss
+		/*
 		 * 1. imprime por consola el valor de 2^3 - Usa la clase estática Math y
 		 * su método pow (Cuando es estático no hace falta el new)
 		 * 
